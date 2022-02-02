@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emin</h1>
+
 <h3 align="center">A passionate Swift from Turkey</h3>
 
 - 🌱 I’m currently learning **Swift**
@@ -6,8 +6,6 @@
 - 💬 Ask me about **Swift and C#**
 
 - 📫 How to reach me **emin.hayal@yahoo.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
